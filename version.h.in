@@ -1,0 +1,2 @@
+#define VnaDataTool_VERSION_MAJOR @VnaDataTool_VERSION_MAJOR@
+#define VnaDataTool_VERSION_MINOR @VnaDataTool_VERSION_MINOR@
